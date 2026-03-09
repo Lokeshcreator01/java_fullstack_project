@@ -3,7 +3,7 @@
 Welcome to **SecureTrack**! This is my very first full-stack web application. I built this to learn how to connect a modern frontend (React) with a powerful backend (Spring Boot) and a real-world database (MySQL).
 
 ## 🚀 Live Demo
-**Check it out here:** [SecureTrack Live](https://java-fullstack-project.vercel.app)
+**Check it out here:** [SecureTrack Live](https://java-fullstack-project-q3eddpq7v-lokeshcreator01s-projects.vercel.app/)
 
 This project was a huge learning milestone for me, covering everything from database design to secure authentication and cloud deployment.
 
@@ -34,7 +34,27 @@ Building this project taught me several key concepts in modern web development:
 
 ---
 
-## 🛠️ Tech Stack I Mastered
+## � Screenshots
+
+### 🖼️ Frontend: User Dashboard
+![User Dashboard](./screenshots/user_dashboard.png)
+*Standard user view for reporting and tracking incidents.*
+
+### 🛡️ Frontend: Admin Dashboard
+![Admin Dashboard](./screenshots/admin_dashboard.png)
+*Administrative view for managing all tickets.*
+
+### 🗄️ Backend: MySQL Database
+![MySQL Workbench](./screenshots/mysql_workbench.png)
+*Snapshot of the live database tables in MySQL Workbench.*
+
+### ☁️ Hosting: Render Dashboard
+![Render Dashboard](./screenshots/render_dashboard.png)
+*Backend service running successfully on Render.*
+
+---
+
+## �🛠️ Tech Stack I Mastered
 
 ### **Backend (The Brain)**
 - **Language:** Java 17+
