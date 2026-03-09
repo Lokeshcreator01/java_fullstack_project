@@ -3,7 +3,7 @@
 Welcome to **SecureTrack**! This is my very first full-stack web application. I built this to learn how to connect a modern frontend (React) with a powerful backend (Spring Boot) and a real-world database (MySQL).
 
 ## 🚀 Live Demo
-**Check it out here:** [SecureTrack Live](https://java-fullstack-project-q3eddpq7v-lokeshcreator01s-projects.vercel.app/)
+**Check it out here:** [SecureTrack Live](https://java-fullstack-project.vercel.app)
 
 This project was a huge learning milestone for me, covering everything from database design to secure authentication and cloud deployment.
 
