@@ -3,7 +3,7 @@
 Welcome to **SecureTrack**! This is my very first full-stack web application. I built this to learn how to connect a modern frontend (React) with a powerful backend (Spring Boot) and a real-world database (MySQL).
 
 ## 🚀 Live Demo
-**Check it out here:** [SecureTrack Live](https://java-fullstack-project-q3eddpq7v-lokeshcreator01s-projects.vercel.app)
+**Check it out here:** [SecureTrack Live](https://java-fullstack-project-q3eddpq7v-lokeshcreator01s-projects.vercel.app/)
 
 This project was a huge learning milestone for me, covering everything from database design to secure authentication and cloud deployment.
 
@@ -48,6 +48,16 @@ Building this project taught me several key concepts in modern web development:
 - **Build Tool:** Vite
 - **Styling:** Tailwind CSS v4
 - **Routing:** React Router 6
+
+---
+
+## 🌐 Deployment & Hosting
+
+This project is live thanks to these amazing free-tier cloud services:
+
+- **Frontend Hosting:** [Vercel](https://vercel.com/) (Fast and easy React deployment).
+- **Backend API Hosting:** [Render](https://render.com/) (Reliable hosting for Java/Spring Boot using Docker).
+- **Database:** [Aiven](https://aiven.io/) (Managed MySQL database).
 
 ---
 
